@@ -171,6 +171,3 @@ Usage: <class_name>.update(<\_id>, <dictionary>)
 
 <br>
 
-## Authors
-
-- [VINCENT KIMATU](https://github.com/VincentKimatu/)
